@@ -11,16 +11,42 @@
 </p>
 
 
-**Highlighted Projects:**
-- [GeneExpressionLevelPrediction](https://github.com/Se00n00/GeneExpressionLevelPrediction) — Transformer-based DNA analysis + XAI
-- [CNN-Using-Java-ND4J](https://github.com/Se00n00/CNN-Using-Java-ND4J) — Deep Learning in Java from scratch
-- [Sequence_classification_from_scratch](https://github.com/Se00n00/Sequence_classification_from_scratch) — Transformer from scratch in PyTorch
+<details open>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/Se00n00/pokemon_info">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=pokemon_info&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="pokemon_info" />
+    </a>
+    <a href="https://github.com/Se00n00/CNN-Using-Java-ND4J">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=CNN-Using-Java-ND4J&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="CNN-Using-Java-ND4J" />
+    </a>
+    <a href="https://github.com/Se00n00/Personal-Blog">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=Personal-Blog&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="Personal-Blog" />
+    </a>
+    <a href="https://github.com/Se00n00/GeneExpressionLevelPrediction">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=GeneExpressionLevelPrediction&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="GeneExpressionLevelPrediction" />
+    </a>
+    <a href="https://github.com/Se00n00/Sequence_classification_from_scratch">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=Sequence_classification_from_scratch&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="Sequence_classification_from_scratch" />
+    </a>
+    <a href="https://github.com/Se00n00/CNN-Using-Java-ND4J">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=CNN-Using-Java-ND4J&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="CNN-Using-Java-ND4J" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/Se00n00?tab=repositories&sort=stargazers">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
+    </a>
+  </p>
+</details>
 
 ---
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Se00n00&layout=compact&theme=tokyonight" width="300" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Se00n00&theme=tokyonight" width="500" height="170"/>
-</p>
+  <img src="https://streak-stats.demolab.com?user=Se00n00&theme=tokyonight" width="500" height="170"/>
+</div>
 
 
   
