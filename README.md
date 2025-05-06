@@ -5,52 +5,38 @@
   <a href="https://www.linkedin.com/in/mohit-kumar-055126248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:bluesky5april2021@google.com">
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square" alt="Email" />
   </a>
 </p>
 
----
 
-🔭 I’m currently working on:
-- 🧬 **Gene Expression Level Prediction** using Transformers
-- 🧠 Custom-built **CNN with ND4J in Java**
-- 📊 Applying **Explainable AI (XAI)** methods to biological data
-
-🌱 I’m currently learning:
-- Compiler Design & Systems Programming
-- Advanced Transformers & DL Optimization
-- Rust, Angular & Flutter for Full-Stack Dev
-
-💡 Goals for 2025:
-- Contribute to open-source ML & bioinformatics tools  
-- Write technical blogs on ML & systems design  
-- Land a research/internship position at a top AI company  
+**Highlighted Projects:**
+- [GeneExpressionLevelPrediction](https://github.com/Se00n00/GeneExpressionLevelPrediction) — Transformer-based DNA analysis + XAI
+- [CNN-Using-Java-ND4J](https://github.com/Se00n00/CNN-Using-Java-ND4J) — Deep Learning in Java from scratch
+- [Sequence_classification_from_scratch](https://github.com/Se00n00/Sequence_classification_from_scratch) — Transformer from scratch in PyTorch
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Se00n00&layout=compact&theme=tokyonight" width="300" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Se00n00&theme=tokyonight" width="500" height="170"/>
+</div>
 
-📌 **Highlighted Projects:**
-- 🔍 [GeneExpressionLevelPrediction](https://github.com/Se00n00/GeneExpressionLevelPrediction) — Transformer-based DNA analysis + XAI
-- 🤖 [CNN-Using-Java-ND4J](https://github.com/Se00n00/CNN-Using-Java-ND4J) — Deep Learning in Java from scratch
-- 🌐 [stack-portfolio](https://github.com/Se00n00/stack-portfolio) — My personal developer portfolio
-- 🧠 [Sequence_classification_from_scratch](https://github.com/Se00n00/Sequence_classification_from_scratch) — Transformer from scratch in PyTorch
 
----
-
-📊 **GitHub Stats:**
-
+  
+  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Se00n00&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Se00n00&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Se00n00&theme=tokyo-night&hide_border=true" width="800"/>
+
+  <!-- Profile Trophy -->
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Se00n00&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" width="800"/>
+
+  <!-- Profile Views -->
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Se00n00&label=Profile%20views&color=blueviolet&style=flat" alt="Se00n00" />
 </p>
 
 ---
 
-🔗 **Let’s Connect:**
-- 🌍 [LinkedIn](https://www.linkedin.com/in/mohit-kumar-055126248)
-- 💼 [Portfolio (WIP)](https://github.com/Se00n00/stack-portfolio)
-- 📬 Email: `your-email@example.com`
-
----
-
-🧠 *“Striving to merge biology, AI, and systems to solve real-world problems.”*
+<h3>“Why Develve Into Applications!, when there is so much to learn about the theory”</h3>
