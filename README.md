@@ -17,10 +17,10 @@
 - [Sequence_classification_from_scratch](https://github.com/Se00n00/Sequence_classification_from_scratch) — Transformer from scratch in PyTorch
 
 ---
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Se00n00&layout=compact&theme=tokyonight" width="300" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Se00n00&theme=tokyonight" width="500" height="170"/>
-</div>
+</p>
 
 
   
