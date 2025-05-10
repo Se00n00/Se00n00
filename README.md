@@ -8,6 +8,9 @@
   <a href="mailto:bluesky5april2021@google.com">
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square" alt="Email" />
   </a>
+  <a href="https://se00n00.github.io/Personal-Blog/">
+    <img src="https://img.shields.io/badge/Blogs-blue?&style=flat-square" alt="Blogs" />
+  </a>
 </p>
 
 
