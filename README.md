@@ -11,6 +11,9 @@
   <a href="https://se00n00.github.io/Personal-Blog/">
     <img src="https://img.shields.io/badge/Blogs-blue?&style=flat-square" alt="Blogs" />
   </a>
+  <a href="https://se00n00.github.io/My_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-red?&style=flat-square" alt="Blogs" />
+  </a>
 </p>
 
 
