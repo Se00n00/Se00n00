@@ -17,18 +17,15 @@
 </p>
 
 
-<details open>
+<details open align="center">
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <p align="left">
-    <a href="https://github.com/Se00n00/pokemon_info">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=pokemon_info&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="pokemon_info" />
+  <p align="center">
+    <a href="https://github.com/Se00n00/PaperRAG">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=PaperRAG&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="PaperRAG" />
     </a>
-    <a href="https://github.com/Se00n00/CNN-Using-Java-ND4J">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=CNN-Using-Java-ND4J&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="CNN-Using-Java-ND4J" />
-    </a>
-    <a href="https://github.com/Se00n00/Personal-Blog">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=Personal-Blog&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="Personal-Blog" />
+    <a href="https://github.com/Se00n00/LawAgent">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=LawAgent&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="LawAgent" />
     </a>
     <a href="https://github.com/Se00n00/GeneExpressionLevelPrediction">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=GeneExpressionLevelPrediction&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="GeneExpressionLevelPrediction" />
@@ -36,7 +33,10 @@
     <a href="https://github.com/Se00n00/Sequence_classification_from_scratch">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=Sequence_classification_from_scratch&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="Sequence_classification_from_scratch" />
     </a>
-    <a href="https://github.com/Se00n00/CNN-Using-Java-ND4J">
+        <a href="https://github.com/Se00n00/Paper_Implementation_and_Reviews">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=Paper_Implementation_and_Reviews&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="Paper_Implementation_and_Reviews" />
+    </a>
+        <a href="https://github.com/Se00n00/CNN-Using-Java-ND4J">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Se00n00&repo=CNN-Using-Java-ND4J&theme=react&bg_color=1F222E&title_color=00AAFF&hide_border=true&icon_color=F8D866" alt="CNN-Using-Java-ND4J" />
     </a>
   </p>
