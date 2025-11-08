@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">ML Engineer | Web Developer | Curious Coder</h3>
+<h3 align="center">ML Engineer | Full Stack Developer | Software Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohit-kumar-055126248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bluesky5april2021@google.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square" alt="Email" />
-  </a>
-  <a href="https://se00n00.github.io/Personal-Blog/">
-    <img src="https://img.shields.io/badge/Blogs-blue?&style=flat-square" alt="Blogs" />
-  </a>
   <a href="https://se00n00.github.io/My_Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-red?&style=flat-square" alt="Blogs" />
+    <img src="https://img.shields.io/badge/Website-FFDD00?style=for-the-badge&logo=angular&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://www.youtube.com/@anantami2634">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://x.com/Se00n001">
+    <img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohit-kumar-055126248/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
