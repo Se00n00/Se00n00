@@ -3,7 +3,10 @@
 
 <p align="center">
   <a href="https://se00n00.github.io/My_Portfolio/">
-    <img src="https://img.shields.io/badge/Website-FFDD00?style=for-the-badge&logo=angular&logoColor=black" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-FFDD00?style=for-the-badge&logo=angular&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://se00n00.github.io/Personal-Blog/">
+    <img src="https://img.shields.io/badge/My Blogs-2D65D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blog" />
   </a>
   <a href="https://www.youtube.com/@anantami2634">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -13,6 +16,12 @@
   </a>
   <a href="https://www.linkedin.com/in/mohit-kumar-055126248/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://huggingface.co/Se00n00">
+    <img src="https://img.shields.io/badge/Hugging%20Face-F79E1B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  </a>
+  <a href="https://www.kaggle.com/se00n00">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
