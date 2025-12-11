@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
+## Hi 👋, I'm Mohit Kumar
+![From_Pintrest](https://i.pinimg.com/1200x/33/97/01/339701b7c330895a51cee31b91b6c6cc.jpg)
+
 <h3 align="center">ML Engineer | Full Stack Developer | Software Developer</h3>
 
 <p align="center">
@@ -73,5 +75,3 @@
 </div>
 
 ---
-
-<h3>“Why Develve Into Applications!, when there is so much to learn about the theory”</h3>
