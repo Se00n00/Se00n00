@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Mohit Kumar
 ![From_Pintrest](https://i.pinimg.com/1200x/33/97/01/339701b7c330895a51cee31b91b6c6cc.jpg)
 
-<h3 align="center">ML Engineer | Full Stack Developer | Software Developer</h3>
+<h3 align="center">AI Engineer | Full Stack Developer | Software Developer</h3>
 
 <p align="center">
   <a href="https://se00n00.github.io/My_Portfolio/">
