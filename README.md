@@ -27,9 +27,8 @@
   </a>
 </p>
 
-<h4 align="center">“Why Develve Into Applications!, when there is so much to learn about the theory”</h3>
-
 ---
+
 <p align="center">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith-color.png" height="55"/>
   <img src="https://www.infralovers.com/images/posts/ai-for-devops-engineers/langchain_logo.png" width="55"/>
@@ -66,12 +65,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> 
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Se00n00&layout=compact&theme=tokyonight" width="300" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=Se00n00&theme=tokyonight" width="500" height="170"/>
-</div>
 
 ---
