@@ -67,12 +67,24 @@
 </p>
 
 ---
-
-### Prev
-**Planet AI / Craon AI** | Dec 2025 - May 2026 |  [![GitHub](https://img.shields.io/badge/GitHub-Work-181717?logo=github)](https://github.com/mohit-craon)
-
-`Python` · `FastAPI` · `LangGraph` · `FastMCP` · `SSE`· `ChromaDB` · `MongoDB`
-
-<small> Built a hierarchical multimodal multi-agent platform for conversational video editing serving ~1K DAUs. Coordinated 5 specialized agents, 20+ tools, and 10+ AI workflows with production-grade reliability and ~400 ms streaming latency. </small>
+<table>
+  <tr>
+  <td width="55" valign="top">
+  <img src="craon.svg" width="40">
+  </td>
+  <td valign="top">
+  
+  <strong>Full Stack AI Engineer</strong>  | [![GitHub](https://img.shields.io/badge/GitHub-Work-181717?logo=github)](https://github.com/mohit-craon)  <br>
+  Craon AI <br>
+  Dec 2025 to May 2026 · 6 months
+  
+  `Python` · `FastAPI` · `LangGraph` · `FastMCP` · `SSE`· `ChromaDB` · `MongoDB`
+  
+  
+  <small> -- Built a hierarchical multimodal multi-agent AI platform for conversational video editing, serving approximately 1,000 daily users, using Python, FastAPI, LangGraph, MCP, and SSE; coordinating 5 specialized agents, 20+ tools, and 10+ AI workflows.</small>
+  
+  </td>
+  </tr>
+</table>
 
 ---
